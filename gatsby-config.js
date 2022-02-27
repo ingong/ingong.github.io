@@ -4,6 +4,13 @@ module.exports = {
   siteMetadata: metaConfig,
   plugins: [
     {
+      resolve: 'gatsby-plugin-canonical-urls',
+      options: {
+        siteUrl: 'https://ingong.github.io/',
+        stripQueryString: true,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
