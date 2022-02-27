@@ -1,8 +1,8 @@
 ---
-title: 'Category Test1'
-date: 2020-07-02 16:21:13
-category: 'category1'
+title: '블로그 이전 중'
+date: 2022-02-27 16:21:13
+category: 'essay'
 draft: false
 ---
 
-Test1
+블로그 이전 중 입니다.
