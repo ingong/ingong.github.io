@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ingong.github.io/sitemap.xml
+Host: https://ingong.github.io
