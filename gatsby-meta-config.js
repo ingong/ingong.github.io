@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
-  description: `Blog posted about ...`,
+  title: `Ingong's Log`,
+  description: `Blog posted about Ingong's Log`,
   author: `ingong`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  introduction: `프론트 엔드 개발자 이인송입니다. 함수형 프로그래밍과 UX 를 좋아합니다.`,
   siteUrl: `https://ingong.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account

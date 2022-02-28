@@ -1,13 +1,13 @@
 ---
-title: 'about'
+title: '이인송 이력서입니다'
 date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
-# Your name
+# 안녕하세요. 이인송입니다.
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+<a href="https://violet-router-2f7.notion.site/99d8dbb61e484ca4af273b90efa051e6">이력서 LINK</a>
 
 </div>
