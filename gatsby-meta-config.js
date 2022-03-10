@@ -2,11 +2,11 @@ module.exports = {
   title: `Ingong's Log`,
   description: `Blog posted about Ingong's Log`,
   author: `ingong`,
-  introduction: `프론트 엔드 개발자 이인송입니다. 함수형 프로그래밍과 UX 를 좋아합니다.`,
+  introduction: `프론트 엔드 개발자 이인송입니다. 몰입하는 경험과 함께 성장하는 경험을 좋아합니다.`,
   siteUrl: `https://ingong.github.io`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `ingong`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
