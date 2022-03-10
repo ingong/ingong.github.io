@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://ingong.github.io/FrontEnd/2021 하반기 프로그래머스 과제리뷰(1)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ingong.github.io/FrontEnd/2021 하반기 프로그래머스 FE과제 리뷰(2)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ingong.github.io/FrontEnd/2021 하반기 프로그래머스 FE과제 리뷰(1)/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/FrontEnd/에러핸들링/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/FrontEnd/안전하게 로그인 관리하기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/BOJ Code/BOJ 12865 평범한 배낭/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -11,8 +12,8 @@
 <url> <loc>https://ingong.github.io/FrontEnd/칸반보드와 UX 개선/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/React/Recoil로의 마이그레이션/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/FrontEnd/상태관리대상과 구조/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://ingong.github.io/개발환경/바닥부터_개발환경_구축하기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/자료구조/자료구조에 대한 고찰/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ingong.github.io/개발환경/바닥부터_개발환경_구축하기/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/FrontEnd/브라우저의 렌더링과정/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/FrontEnd/AJAX란 무엇인가/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ingong.github.io/Essay/어떻게 기술 블로그를 쓸 것인가/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
