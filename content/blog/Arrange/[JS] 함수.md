@@ -1,7 +1,7 @@
 ---
 title: '[JS] 함수(Function)'
-date: 2022-03-17 00:15:13
-category: 'JS'
+date: 2022-03-15 00:15:13
+category: 'Arrange'
 draft: false
 ---
 

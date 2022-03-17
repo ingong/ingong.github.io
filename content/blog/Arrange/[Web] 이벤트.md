@@ -1,7 +1,7 @@
 ---
 title: '[Web] 이벤트'
-date: 2022-03-17 00:14:13
-category: 'Web'
+date: 2022-03-15 00:14:13
+category: 'Arrange'
 draft: false
 ---
 
