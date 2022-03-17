@@ -32,7 +32,7 @@ JS 의 iterable, iterator, Generator 에 대해서 알아보자.
 	 전부 다 순회한 경우 {done: false} 가 반환되어야합니다.
 ```
 
-`**iterable protocol`\*\* 를 요약하면
+`iterable protocol` 를 요약하면
 
 - 어떤 객체가 반복되기 위해서는 iteration 동작에 대해 정의해야한다.
 - `iterator` 는 next 함수를 구현해야하고, `{value: someValue, done: false}` 를 반환해야한다.
@@ -59,7 +59,7 @@ for ... of 는 이터러블 객체의 경우에만 적용이 가능하다. 왜�
 
 인덱스값에 의해 정렬이 되는 자료구조이다. 배열과 유사 배열 생성자인 Array 객체, TypedArray 객체가 있다.
 
-1. **Keyed Collection**
+2. **Keyed Collection**
 
 키값을 기준으로 정렬되는 자료구조이다. Objects, Map, Set, Weak Map, Weak Set 가 있다.
 
