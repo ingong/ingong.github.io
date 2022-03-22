@@ -1,5 +1,5 @@
 ---
-title: 'Async-Await'
+title: 'Async-await'
 date: 2022-03-22 03:21:13
 category: 'JS'
 draft: false
