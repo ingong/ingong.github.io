@@ -1,7 +1,7 @@
 ---
 title: 'JS 로 우선순위 큐 구현하기'
 date: 2022-3-14 15:38:13
-category: '자료구조'
+category: '알고리즘'
 draft: false
 ---
 
