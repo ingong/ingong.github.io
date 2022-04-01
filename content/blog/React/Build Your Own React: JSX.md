@@ -1,5 +1,5 @@
 ---
-title: 'Build your Own React: JSX'
+title: 'Build your own React: JSX'
 date: 2022-03-20 21:21:13
 category: 'React'
 draft: false
