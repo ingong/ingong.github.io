@@ -1,7 +1,7 @@
 ---
 title: 'Next.js: SSR과 Next.js의 DataFetching'
 date: 2022-04-01 20:55:13
-category: 'Next.js'
+category: 'React'
 draft: false
 ---
 
