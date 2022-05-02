@@ -59,7 +59,7 @@ draft: false
 - 할당된 Listeners가 해제되지 않고 있다.
 - Documents, Nodes가 계속 쌓여간다. 즉, detached DOM들이 존재한다.
 
-## \***\*Allocation Timeline 활용해 JS 메모리 누수 디버깅하기\*\***
+## Allocation Timeline 활용해 JS 메모리 누수 디버깅하기
 
 JS Heap에서 발생한 메모리릭을 살펴보려면 Chrome DevTools에서 **Memory** > **Profiles** > **Allocation instrumentation on timeline** 을 선택한 뒤 **`Start`** 버튼을 눌러 분석을 시작할 수 있다. 메모리릭을 발생시킬 것으로 의심되는 액션을 몇 차례 수행한 뒤, **`Stop`** 버튼을 눌러 분석을 종료하니 다음과 같은 화면을 볼 수 있었다.
 
@@ -110,7 +110,7 @@ kanbanSelector.addEventListener('drop', ({ target }) => {
   <img src="../../assets/MemoryLeak/7.png">
 </div>
 
-## \***\*Debugging Detached DOM with Heap Snapshots\*\***
+## Debugging Detached DOM with Heap Snapshots
 
 JS Heap에서 발생한 메모리릭을 살펴보기 위해서 **Allocation instrumentation on timeline**을 확인했고, 파란 막대에서 detached된 DOM Node에 대해서 확인할 수 있었다.
 
